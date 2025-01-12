@@ -21,7 +21,7 @@ AuthFlow API is a robust and secure authentication system built with Node.js and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AuthFlow-API.git
+   git clone https://github.com/brijesh-py/AuthFlow-API.git
    ```
 
 
